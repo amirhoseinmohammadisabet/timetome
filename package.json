@@ -1,0 +1,11 @@
+{
+  "name": "timetome",
+  "version": "1.0.0",
+  "description": "it gives time in a regular format",
+  "main": "timeToMe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amirhoseinmohammadisabet",
+  "license": "ISC"
+}
